@@ -12,14 +12,15 @@ A lightweight and minimal WordPress theme created from scratch. This theme is de
 - **Featured Image Support**: Displays featured images for posts.
 
 ## Screenshots
-![Screenshot 2024-09-06 230815](https://github.com/user-attachments/assets/1fbcea04-d126-4ce2-9f80-99847fabf4ed)
-![Screenshot 2024-09-06 230848](https://github.com/user-attachments/assets/b7964a8d-e2e1-4c84-a9c3-5481a85f38e1)
-![Screenshot 2024-09-06 230911](https://github.com/user-attachments/assets/881f4f03-1a7e-49eb-a0a0-fe68f443850d)
-![Screenshot 2024-09-06 230922](https://github.com/user-attachments/assets/0c043966-4456-4790-8748-deb3b2ee8c6c)
-![Screenshot 2024-09-06 230636](https://github.com/user-attachments/assets/cb513108-eddb-4a0b-be9f-002556e68fe8)
+
+![Home](https://github.com/user-attachments/assets/33acc342-9956-4e2b-ac28-46cf2d339129)
+![Posts](https://github.com/user-attachments/assets/5cb891b4-221f-4866-a0f6-28bc0ec30958)
+![Error404](https://github.com/user-attachments/assets/1d28833d-053f-43db-a1bd-5445e324b3ec)
+![Home-phone](https://github.com/user-attachments/assets/1db9df35-fec4-4400-a7cb-4574ce416a1a)
+![Mobile](https://github.com/user-attachments/assets/9007d383-d2c2-4426-86bd-3568247accf6)
 
 ## Demo
 
-[![Watch the demo](https://github.com/user-attachments/assets/469433b3-4b86-4d14-ac24-5d411a6dd606)
+https://github.com/user-attachments/assets/8733081e-0de5-4941-b95f-3d61ef157b14
 
 
