@@ -17,10 +17,10 @@ A lightweight and minimal WordPress theme created from scratch. This theme is de
 ![Posts](https://github.com/user-attachments/assets/5cb891b4-221f-4866-a0f6-28bc0ec30958)
 ![Error404](https://github.com/user-attachments/assets/1d28833d-053f-43db-a1bd-5445e324b3ec)
 <p align="center">
-  <img src="![Home-phone](https://github.com/user-attachments/assets/1db9df35-fec4-4400-a7cb-4574ce416a1a)">
+  <img src="https://github.com/user-attachments/assets/1db9df35-fec4-4400-a7cb-4574ce416a1a">
 </p>
 <p align="center">
-  <img src="![Mobile](https://github.com/user-attachments/assets/9007d383-d2c2-4426-86bd-3568247accf6)">
+  <img src="https://github.com/user-attachments/assets/9007d383-d2c2-4426-86bd-3568247accf6">
 </p>
 <!-- ![Home-phone](https://github.com/user-attachments/assets/1db9df35-fec4-4400-a7cb-4574ce416a1a)
 ![Mobile](https://github.com/user-attachments/assets/9007d383-d2c2-4426-86bd-3568247accf6) -->
