@@ -20,6 +20,6 @@ A lightweight and minimal WordPress theme created from scratch. This theme is de
 
 ## Demo
 
-https://github.com/user-attachments/assets/469433b3-4b86-4d14-ac24-5d411a6dd606
+[![Watch the demo](https://github.com/user-attachments/assets/469433b3-4b86-4d14-ac24-5d411a6dd606)
 
 
